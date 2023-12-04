@@ -1,7 +1,16 @@
 # MonsieurGabriel.github.io
 Enrique Gabriel B. Ecal
 
-# The Roman Emperors
+# The Roman Empire 
+
+![The Roman Empire](https://howardwiseman.me/Roman/RE0116x.gif)
+
+<p>The Roman Republic became the Roman Empire in 27 BCE when Julius Caesar’s adopted son, best known as Augustus, became the ruler of Rome. Augustus established an autocratic form of government, where he was the sole ruler and made all important decisions. Although we refer to him as Rome’s first emperor, Augustus never took the title of king or emperor, nor did his successors; they preferred to call themselves princeps, first citizen, or primus inter pares, first among peers. This choice of title maintained the appearance of limited power that had been so important under the Republic.</p>
+<p>Pax Romana—literally “Roman peace”—is a term often given to the period between 27 BCE and 180 CE during which Roman rule was relatively stable and war less frequent. There were conflicts, such as provincial revolts and wars along the frontier—see the map below showing the extent of Roman control—but Rome experienced nothing like the civil wars that dominated much of the first century BCE. The emperors and the Senate took over most elections and simply chose who they wanted for office, so there were fewer elected political offices to fight over.</p>
+
+
+
+# The Roman Emperors 
 ![Ancient Roman Emperors](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/04.2022_Augustus_Bevilacqua_cropped.jpg/100px-04.2022_Augustus_Bevilacqua_cropped.jpg)
 
  <b>Julius Caesar Augustus (September 23, 63 BC - 14 August 14 AD)</b><br>
@@ -31,3 +40,5 @@ Enrique Gabriel B. Ecal
 
  <b>Vespasian (17 November 9 AD - 23 June 79)</b><br>
     Vespasianus or Vespasian, was the Fourth and last Emperor who reigned in the Year of the Four Emperors. He founded the Flavian dynasty that rules the Empire for 27 years. For his Imperial power, Vespasian joined forces with Mucianus, the governor of Syria, and Primus, a general in Pannonia.
+
+
