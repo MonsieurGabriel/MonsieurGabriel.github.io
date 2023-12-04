@@ -5,7 +5,7 @@ Enrique Gabriel B. Ecal
 ![Ancient Roman Emperors](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/04.2022_Augustus_Bevilacqua_cropped.jpg/100px-04.2022_Augustus_Bevilacqua_cropped.jpg)
 
  <b>Julius Caesar Augustus (September 23, 63 BC - 14 August 14 AD)</b><br>
-   He was the founder of the Roman Empire. He was the first Roman Emperor, from 27 BC until his death.</br>
+   He was the founder of the Roman Empire. He was the first Roman Emperor, from 27 BC until his death.
    Augustus enlarged the empire, annexing Egypt, Dalmatia, Pannonia, Noricum, and Raetia. He also expanded possesions in Africa,
    and completed the conquest of Hispania.
 
@@ -25,9 +25,9 @@ Enrique Gabriel B. Ecal
 ![Ancient Roman Emperors](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Statue_of_the_emperor_Otho%2C_Ma_1215_%2830612822394%29_%28cropped%29.jpg/220px-Statue_of_the_emperor_Otho%2C_Ma_1215_%2830612822394%29_%28cropped%29.jpg)
 
  <b>Otho (April 28, 32 - 16 April 69)</b><br>
-     Marcus Salvius Otho or known as "Otho" was the second Emperor of the Year of the Four Emperors. How did Otho become the Roman Emperor? It happened when Galba was killed by the praetorians on the 15th of January. The Roman peasants kept an eye on poles and Otho was proclaimed the new Roman Emperor.</br>
+     Marcus Salvius Otho or known as "Otho" was the second Emperor of the Year of the Four Emperors. How did Otho become the Roman Emperor? It happened when Galba was killed by the praetorians on the 15th of January. The Roman peasants kept an eye on poles and Otho was proclaimed the new Roman Emperor.
 
 ![Ancient Roman Emperors](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Naples_Archaeology_Museum_%285914222133%29_cropped.jpg/100px-Naples_Archaeology_Museum_%285914222133%29_cropped.jpg)
 
  <b>Vespasian (17 November 9 AD - 23 June 79)</b><br>
-    Vespasianus or Vespasian, was the Fourth and last Emperor who reigned in the Year of the Four Emperors. He founded the Flavian dynasty that rules the Empire for 27 years. For his Imperial power, Vespasian joined forces with Mucianus, the governor of Syria, and Primus, a general in Pannonia.</br>
+    Vespasianus or Vespasian, was the Fourth and last Emperor who reigned in the Year of the Four Emperors. He founded the Flavian dynasty that rules the Empire for 27 years. For his Imperial power, Vespasian joined forces with Mucianus, the governor of Syria, and Primus, a general in Pannonia.
